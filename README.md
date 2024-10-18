@@ -7,6 +7,7 @@ Dataset
 Dataset yang digunakan dalam proyek ini berasal dari dataset penyewaan sepeda yang berisi data harian dan per jam. Berikut penjelasan singkat dari setiap file dataset:
 
 day.csv: Data penyewaan sepeda harian.
+
 hour.csv: Data penyewaan sepeda per jam.
 
 ## Deskripsi Proyek
@@ -17,13 +18,21 @@ Berikut adalah struktur proyek ini:
 
 submission/
 ├───dashboard
+
 │ └───app.py
+
 ├───data
+
 │ ├───day.csv
+
 │ └───hour.csv
+
 ├───notebook.ipynb
+
 ├───Readme.md
+
 └───requirements.txt
+
 └───url.txt
 
 
