@@ -6,9 +6,9 @@ Tugas akhir untuk sertifikasi Dicoding
 Dataset
 Dataset yang digunakan dalam proyek ini berasal dari dataset penyewaan sepeda yang berisi data harian dan per jam. Berikut penjelasan singkat dari setiap file dataset:
 
-day.csv: Data penyewaan sepeda harian.
+**day.csv**: Data penyewaan sepeda harian.
 
-hour.csv: Data penyewaan sepeda per jam.
+**hour.csv**: Data penyewaan sepeda per jam.
 
 ## Deskripsi Proyek
 Proyek ini bertujuan untuk menganalisis dataset penyewaan sepeda harian dan per jam, dengan fokus pada pola penggunaan sepeda dan pengaruh cuaca. Analisis dilakukan menggunakan Jupyter Notebook, sedangkan hasil akhirnya divisualisasikan dalam bentuk dashboard interaktif menggunakan Streamlit.
@@ -17,6 +17,7 @@ Proyek ini bertujuan untuk menganalisis dataset penyewaan sepeda harian dan per 
 Berikut adalah struktur proyek ini:
 
 submission/
+
 ├───dashboard
 
 │ └───app.py
