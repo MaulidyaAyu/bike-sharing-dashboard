@@ -49,4 +49,3 @@ submission/
 3. Jalankan aplikasi Streamlit dengan perintah berikut di terminal:
 	streamlit run dashboard/app.py
 4. Buka browser dan arahkan ke alamat yang ditampilkan untuk melihat dashboard.
->>>>>>> cfefe39 (Initial commit)
