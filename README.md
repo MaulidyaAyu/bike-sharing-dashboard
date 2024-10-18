@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# bike-sharing-dashboard
 Tugas akhir untuk sertifikasi Dicoding
 =======
 # Bike Sharing Data Analysis Dashboard
